@@ -93,9 +93,9 @@ Use the provided script to build and run the project:
 - Text box for adding custom commands
 - UI handles cleanup of unused mappings
 
-![UI Interface - 1](assets/UI-1.png)
+![UI Interface - 1](UI-1.png)
 
-![UI Interface - 2](assets/UI-2.png)
+![UI Interface - 2](UI-2.png)
 
 ---
 
@@ -112,3 +112,4 @@ Use the provided script to build and run the project:
 ## 📝 License
 
 This project is licensed under the [MIT License](./LICENSE).
+
